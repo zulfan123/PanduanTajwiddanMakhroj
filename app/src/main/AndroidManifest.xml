@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.panduantajwiddanmakhroj">
+
+    <application
+            android:allowBackup="true"
+            android:icon="@drawable/logoku"
+            android:label="@string/app_name"
+            android:roundIcon="@drawable/logoku"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme">
+        <activity android:name=".AboutActivity">
+        </activity>
+        <activity android:name=".idhsfActivity">
+        </activity>
+        <activity android:name=".ikfsfActivity">
+        </activity>
+        <activity android:name=".idgmtsActivity">
+        </activity>
+        <activity android:name=".idzharActivity">
+        </activity>
+        <activity android:name=".ikfaActivity">
+        </activity>
+        <activity android:name=".idarActivity">
+        </activity>
+        <activity android:name=".iqlabActivity">
+        </activity>
+        <activity android:name=".idgbilActivity">
+        </activity>
+        <activity android:name=".idgbigActivity">
+        </activity>
+        <activity android:name=".mimActivity">
+        </activity>
+        <activity android:name=".nunActivity">
+        </activity>
+        <activity android:name=".mtqActivity">
+        </activity>
+        <activity android:name=".mtjActivity">
+        </activity>
+        <activity android:name=".mtmActivity">
+        </activity>
+        <activity android:name=".idghamActivity">
+        </activity>
+        <activity android:name=".fariiActivity">
+        </activity>
+        <activity android:name=".tobiiActivity">
+        </activity>
+        <activity android:name=".madActivity">
+        </activity>
+        <activity android:name=".sqActivity">
+        </activity>
+        <activity android:name=".kaisumActivity">
+        </activity>
+        <activity android:name=".safatainActivity">
+        </activity>
+        <activity android:name=".lisanActivity">
+        </activity>
+        <activity android:name=".halqActivity">
+        </activity>
+        <activity android:name=".jaufActivity">
+        </activity>
+        <activity android:name=".qlqlActivity">
+        </activity>
+        <activity android:name=".lafdzActivity">
+        </activity>
+        <activity android:name=".raActivity">
+        </activity>
+        <activity android:name=".idhwajibActivity">
+        </activity>
+        <activity android:name=".ghunnahActivity">
+        </activity>
+        <activity android:name=".MakhrajActivity">
+        </activity>
+        <activity android:name=".TajwidActivity">
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

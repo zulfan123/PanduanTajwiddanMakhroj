@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+            android:background="@drawable/back">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MAD FAR'I"
+            android:fontFamily="monospace"
+            android:textStyle="bold"
+            android:textSize="45dp"
+            android:gravity="center"/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mad Far'i ada 14, diantaranya adalah:"/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Mad Wajib Mutashil"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mad wajib muttashil adalah bacaan mad thabi’i yang bertemu dengan huruf hamzah dalam satu kata. Panjang bacaaanya yaitu 3 alif (6 harakat). Di dalam kitab suci Al-Quran, tanda dari Hukum Mad Wajib Muttashil  adalah garis yang melengkung tebal dan tanda ini mirip seperti gambar pedang,  yang letaknya berada di atas dari  huruf Mad Thobi’i ataupun terletak di antara Huruf hijaiyah Mad Thobi’i dan huruf hijaiyah Hamzah."
+                />
+
+        <ImageView
+                android:src="@drawable/mwm"
+                android:layout_height="41dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. Mad Jaiz Munfashil"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mad Jaiz Munfashil ini terjadi ketika ada huruf Mad Thobi’i  bertemu dengan huruf hijaiyah Alif )  tetapi tidak dalam satu kata. Secara etimologi, jaiz berarti boleh dan Munfashil berarti terpisah atau di luar kata. Cara membaca dari Mad Jaiz Munfashil ini adalah boleh panjang 2, 4, atau 6 harokat. Biasanya di dalam Al-Quran, kata / kalimat yang mengandung Mad Jaiz Munfashil tersebut diberikan suatu tanda berupa garis tipis yang melengkung pada bagian atas huruf Mad Thobi’i tersebut atau juga bisa berada antara huruf Mad Thobi’i dan huruf Alif tersebut."
+                />
+
+        <ImageView
+                android:src="@drawable/mjm"
+                android:layout_height="41dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. Mad Arid Lissukun"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Yaitu setiap mad thobi’i bertemu dengan huruf hidup dalam satu kalimat dan dibaca waqof (berhenti). Panjangnya adalah 2, 4, atau 6 harokat (1, 2, atau 3 alif).  Apabila dibaca washol (lanjut), maka hukumnya kembali seperti mad thobi’i yaitu 2 harokat."
+                />
+        <ImageView
+                android:src="@drawable/mal"
+                android:layout_height="48dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4. Mad Badal"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Yaitu apabila ada hamzah bertemu dengan Mad. Mad badal terjadi apabila ada 2 buah huruf hamzah dan huruf hamzah yang pertama berharakat sedangkan huruf hamzah yang ke-2 disukun (mati), maka hamzah yang ke-2 diganti dengan alif, wau, atau ya. Panjang bacaan Mad Badal adalah 2 harokat (1 alif)."
+                />
+
+        <ImageView
+                android:src="@drawable/badal"
+                android:layout_height="67dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CONTOH :"
+                />
+        <ImageView
+                android:src="@drawable/badal2"
+                android:layout_height="48dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5. Mad Iwadl"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Yaitu mad yang terjadi apabila pada akhir kalimat terdapat huruf yang berharakat fathah tanwin dan dibaca waqof (berhenti) . Panjang bacaannya 2 harokat (1 alif)."
+                />
+        <ImageView
+                android:src="@drawable/iwad"
+                android:layout_height="30dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="6. Mad Lazim Mutsaqqal Kalimi"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mad Lazim Mutsaqqal Kilmi atau disebut juga Mad Lazim Muthawwal terjadi apabila mad thobi’i bertemu dengan huruf yang bertasydid dalam satu kata. Mad Lazim Mutsaqqal Kilmi mempunyai tanda (simbol) berupa garis lengkung yang tebal seperti sebuah gambar pedang, seperti pada Mad Wajib Muttashil.Cara membacanya adalah dengan panjang 6 harokat (3 alif)."
+                />
+        <ImageView
+                android:src="@drawable/lazimmtskal"
+                android:layout_height="48dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+        <ImageView
+                android:src="@drawable/lazimmtskal2"
+                android:layout_height="48dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="7. Mad Lazim Mukhaffaf Kalimi"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Yaitu bila mad thobi’i bertemu dengan huruf yang  bersukun dalam satu kata. Cara membacanya dengan 6 harokat (3 alif). Secara bahasa, Mad Lazim Mukhaffaf Kilmi terdiri dari beberapa kata dalam bahasa arab. Yang pertama Mad berarti panjang, Lazim artinya wajib atau harus, Mukhaffaf bermakna ringan dan Kilmi yaitu kalimat.
+"
+                />
+        <ImageView
+                android:src="@drawable/lazimmtkkal"
+                android:layout_height="48dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="8. Mad Lazim Musyba' Harfi"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mad ini biasa terjadi di awal permulaan Surat di dalam Al-Qur'an. Huruf mad ini ada delapan, yaitu :"
+                />
+
+        <ImageView
+                android:src="@drawable/mlmh"
+                android:layout_height="48dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Panjang bacaannya adalah 6 harokat (3 alif)"
+                />
+
+        <ImageView
+                android:src="@drawable/mushar"
+                android:layout_height="124dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="9. Mad Lazim Mukhaffaf Harfi"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mad ini juga terjadi hanya pada awal surat dalam al-qur’an, cara membacanya adalah dengan panjang 2 harokat atau 1 alif. Huruf-hurafnya antara lain:"
+                />
+        <ImageView
+                android:src="@drawable/mlmf"
+                android:layout_height="48dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+
+        <ImageView
+                android:src="@drawable/mkhar"
+                android:layout_height="51dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="10. Mad Lain"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mad ini terjadi bila dalam suatu lafadz terdapat huruf berharokat fathah bertemu wawu sukun / mati atau ya sukun / mati, kemudian terdapat huruf lain yang juga berharokat, dan dibaca waqof (berhenti). Apabila dibaca washol (lanjut), tidak dibaca panjang. Panjang bacaan mad layyin atau mad lin adalah 2 – 6 harokat ( 1 – 3 alif).
+"
+                />
+
+        <ImageView
+                android:src="@drawable/lain"
+                android:layout_height="89dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="11. Mad Tamkin"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+
+
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Yaitu mad yang terdapat pada huruf ya’ berganda, dimana ya’ yang pertama bersimbol ‘tasydid kasroh’, dan ya’ yang kedua bersimbol sukun/mati. Syaratnya adalah apabila ia tidak diikuti lagi dengan huruf hidup yang dimatikan (karena ada di akhir bacaan), karena kasus demikian itu akan berubah nama menjadi Mad ‘Aridl Lissukun. Panjang Mad Tamkin adalah 2 harokat.
+"
+                />
+        <ImageView
+                android:src="@drawable/tamkin"
+                android:layout_height="59dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="12. Mad Shillah Qashirah"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Yaitu mad yang terdapat pada huruf ya’ berganda, dimana ya’ yang pertama bersimbol ‘tasydid kasroh’, dan ya’ yang kedua bersimbol sukun/mati. Syaratnya adalah apabila ia tidak diikuti lagi dengan huruf hidup yang dimatikan (karena ada di akhir bacaan), karena kasus demikian itu akan berubah nama menjadi Mad ‘Aridl Lissukun. Panjang Mad Tamkin adalah 2 harokat.
+"
+                />
+
+        <ImageView
+                android:src="@drawable/sq"
+                android:layout_height="46dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="13. Mad Shillah Tawilah"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Yaitu jika ada ha’ dhamir laki-laki (kata ganti orang ketiga laki-laki) bertemu dengan hamzah qatha’ (berupa alif). Biasanya, ha' dhomir pada hukum bacaan mad shilah thawilah dalam Al-Qur'an cetakan indonesia berharakat fathah melengkung di atasnya. Cara Membaca Hukum tajwid mad shilah thawilah seperti pada contoh diatas dibaca panjang 2,5 alif atau 5 harakat.
+"
+                />
+
+        <ImageView
+                android:src="@drawable/st"
+                android:layout_height="50dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="14. Mad Farq"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mad Farq / Farqi adalah salah satu hukum Mad yang terjadi dari pertemuan Mad Badal dan huruf yang bertasydid. Dinamakan Mad Farqi ini karena untuk membedakan bahawa hamzah tersebut adalah hamzah yang digunakan untuk bertanya 'Apakah?' atau bisa juga disebut dengan nama Mad Istifham (pertanyaan).
+        Durasi panjang bacaan pada Mad Farqi ini adalah 3 Alif (6 harakat).
+        "
+                />
+
+        <ImageView
+                android:src="@drawable/farq"
+                android:layout_height="48dp"
+                android:layout_width="390dp"
+                android:layout_gravity=""/>
+    </LinearLayout>
+</ScrollView>

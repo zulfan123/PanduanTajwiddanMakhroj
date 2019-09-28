@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+            android:background="@drawable/back">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="AL-KHAISYUM (Hidung)"
+            android:fontFamily="monospace"
+            android:textStyle="bold"
+            android:textSize="45dp"
+            android:gravity="center"/>
+    <TextView
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="11dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dinamakan Al-Khaisyum karena tempat keluarnya huruf-huruf berasal dari hidung. Mengapa demikian ? jika saja kita menutup hidung, maka huruf-huruf yang makhrajnya berasal dari al-khaisyum tidak terdengar dengan jelas. Adapun huruf-hurufnya adalah sebagaimana berikut ini :"
+            />
+    <ImageView
+            android:src="@drawable/kaisum"
+            android:layout_height="201dp"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+</ScrollView>

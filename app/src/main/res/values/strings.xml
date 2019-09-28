@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">Panduan Tajwid dan Makhroj</string>
+    <string name="keterangan_gunnah">
+            Secara bahasa, Ghunnah biasa diartikan dengan dengung. Secara istilah, Ghunnah juga biasa disebutkan sebagai
+        nun dan mim bertasydid. Namun, arti lengkap dari ghunnah bukan hanya sebatas nun dan mim bertasydid saja.
+        </string>
+    <string name="cara_baca">
+            Cara membaca ghunnah yaitu dengan menghentakkan bunyi mim atau nun bertasydid, kemudian di dengungkan ke pangkal.
+        hidung hal ini di lakukan selama dua sampai tiga harkat ( ketukan ). Ketika hendak meng-ghunnahkan huruf mim yang
+        bertasydid tersebut maka kedua bibir harus dalam keadaan tertutup hal ini disebabkan makhraj mim hanya bisa
+        terjadi ketika kedua bibir dalam keadaan tertutup.
+    </string>
+    <string name="ketidharwajib">
+            Idzhar Wajib atau Idzhar Mutlak merupakan salah satu dari cabang Hukum Idzhar yang ada dalam ilmu Tajwid. Cabang
+        ilmu Idzhar yang lain adalah Idzhar Halqi. Cara membacanya yakni jelas atau terang (tidak disertai dengung).
+    </string>
+    <string name="ketidharwajib2">
+            Dalam Hukum Idgham Bighunnah dijelaskan bahwa apabila ada Nun Sukun yang dibelakangnya terdapat huruf ya, nun, mim, wawu
+        namun DALAM SATU KATA (biasanya tersambung), maka harus dibaca jelas / terang serta tidak mendengung, dan inilah yang
+        disebut dengan Idzhar Wajib/Idzhar Mutlak. Jadi bisa disimpulkan bahwa Idzhar Wajib adalah bentuk PENGECUALIAN tersendiri
+        dari huruf-huruf Idzhar.
+    </string>
+    <string name="ketidgbgh">
+            Menurut Bahasa Idgham berarti memasukkan, sedangkan bigunnah berarti dengan mendengung. Menurut Istilah Idgham Bigunnah
+        adalah apabila ada nun mati atau tanwin bertemu dengan salah satu huruf hijaiyyah yaitu ya’, nun, mim, dan wawu.
+    </string>
+    <string name="ketidgbgh2">
+            Cara Membaca Idgham Bighunnah Sesuai dengan namanya yaitu idgham bigunnah, maka cara membacanya adalah memasukkan
+        huruf-huruf idhgahm bigunnah ke dalam nun yang disukun atau tanwin dengan mendengung.
+    </string>
+    <string name="ketidgblgh">
+            Menurut Bahasa Idgham berarti memasukkan, sedangkan bilagunnah berarti dengan tanpa mendengung. Menurut Istilah Idgham
+        Bilagunnah adalah apabila ada nun mati atau tanwin bertemu dengan salah satu huruf hijaiyyah yaitu lam dan ro’.
+    </string>
+    <string name="ketidgblgh2">
+           Cara Membaca Idgham Bilaghunnah ialah
+        Sesuai dengan namanya yaitu idgham bilagunnah, maka cara membacanya adalah memasukkan huruf-huruf idhgahm bilagunnah ke dalam nun
+        yang disukun atau tanwin dengan tanpa mendengung.
+    </string>
+    <string name="ketiqlab">
+          Menurut bahasa Iqlab berarti membalik. Menurut Istilah Iqlab adalah apabila ada nun mati atau tanwin bertemu dengan huruf ba’
+         </string>
+    <string name="ketiqlab2">
+        Cara Membaca Iqlab adalah Sesuai dengan namanya yaitu iqlab, maka cara membacanya dengan membalik nun yang disukun atau tanwin
+        menjadi seperti huruf “m”.
+    </string>
+    <string name="ketidhar">
+        Menurut bahasa Idhar berarti jelas, sedangkan halqi berarti tenggorokan. Jadi, dari sini bisa kita ketahui bahwa huruf-huruf
+        idhar adalah huruf-huruf yang makhorijul hurufnya (tempat keluarnya huruf) berasal dari tengggorokan. Menurut Istilah Idhar
+        berarti apabila ada nun mati atau tanwin bertemu dengan salah satu 6 huruf halqi yaitu alif, kha’, kho’, ain, ghin, dan ha’.
+    </string>
+    <string name="ketidhar2">
+        Cara Membaca Idzhar Halqi Sesuai dengan namanya yaitu idhar, maka cara membacanya jelas, tanpa mendengung, tanpa samar, dan
+        tanpa menukar hurufnya.
+    </string>
+    <string name="ketikfa">
+        Menurut Bahasa Ikhfa’ berarti samar, sedangkan haqiqi berarti hakekat, asli, atau sejati. Menurut Istilah
+        Ikhfa’ Haqiqi adalah apabila ada nun mati atau tanwin bertemu dengan salah satu 15 huruf hiyaiyyah berikut ini :
+    </string>
+    <string name="ketikfa2">
+        Cara Membaca Ikhfa’ Sesuai dengan namanya yaitu ikhfa’, maka cara membacanya adalah menyamarkan nun yang disukun atau tanwin menjadi seolah-olah
+        dibaca ‘ng”.
+    </string>
+    <string name="ketqlq">
+        Pengertian Qalqalah menurut bahasa ialah qalqalah yang berarti pantulan atau getaran suara. dan menurut istilah qalqalah adalah melafalkan huruf-huruf
+        tertentu dalam satu kalimat dengan suara memantul dari bagian makhrajnya karena huruf tersebut berharakat fathah, kasrah dan dhummah yang dibaca sukun
+        karena berhenti. Huruf Qalqalah ada 5, diantaranya:
+    </string>
+    <string name="ketqlq2">
+     Macam-macam qalqalah ada dua yaitu qalqalah sughra dan kubra. Untuk lebih jelasnya admin akan memberikan penjelasan serta contohnya dibawah ini :
+    </string>
+    <string name="qlqs">
+    Qalqalah sugra (kecil) adalah huruf qalqalah yang berada pada pertengahan kata yang berharakat sukun. Cara membacanya dengan pantulan yang tidak terlalu kuat.
+    </string>
+    <string name="qlqk">
+        Qalqalah besar adalah huruf qalqalah yang dibaca sukun yang berada pada akhir kata atau ayat, baik karena memang berharakat sukun ataupun Fathah, Kasrah,
+        Dhummah dan tanwin, tetapi dibaca waqaf. Cara membacanya harus lebih mantap dengan memantulkan suara dengan pantulan yang cukup kuat.
+    </string>
+    <string name="mits">
+        Idgham Mitslain atau Idgham Mimi merupakan hukum tajwid yang terjadi khusus untuk huruf hijaiyah Mim Sukun ketemu dengan huruf hijaiyah Mim yang mempunyai
+        harakat. Disebut dengan Mitslain sebab terjadinya pertemuan dua huruf hijaiyah yang makhraj dan juga sifatnya adalah sama persis [identik], tetapi
+        khusus bagi huruf hijaiyah Mim Sukun yang ketemu huruf Mim yang mempunyai harakat.  Dan selain dari huruf hijaiyah Mim tersebut di atas, maka hukum yang
+        berlaku bagi pertemuan 2 [dua] huruf yang sama yaitu huruf sukun dan huruf berharakat yaitu Hukum Mad Tamkin dan Hukum Idgham Mutamasilain.
+    </string>
+    <string name="mits2">
+        Cara Membaca Idgham Mitslain Sesuai dengan namanya, maka cara membacanya adalah dengan memasukkan huruf mim pada mim yang disukun.
+    </string>
+    <string name="iksfw">
+        Menurut Bahasa Ikhfa’ berarti samar, sedangkan syafawi berarti sebangsa bibir. Dikatakan syafawi karena mahraj (tempat keluar) dari huruf mim dan huruf ikhfa’
+        syafawi adalah pertemuan antara bibir bawah dan bibir atas. Menurut Istilah Ikhfa’ Syafawi adalah apabila ada mim mati bertemu dengan huruf ba’.
+    </string>
+    <string name="iksfw2">
+        Cara Membaca Sesuai dengan namanya yaitu ikhfa’ syafawi, maka cara membacanya mempertemukan bibir bawah dan bibir atas ketika membaca mim yang disukun, kemudian
+        menyamarkan huruf ba’ pada mim mati seolah-olah menjadi mim.
+    </string>
+    <string name="idsfw">
+        Menurut Bahasa Idhar berarti jelas, sedangkan syafawi berarti sebangsa bibir. Dikatakan syafawi karena mahraj (tempat keluar) dari huruf mim dan huruf idhar
+        syafawi adalah pertemuan antara bibir bawah dan bibir atas. Menurut Istilah Ikhfa’ Syafawi adalah apabila ada mim mati bertemu dengan huruf selain mim dan ba’, yaitu :
+    </string>
+    <string name="idsfw2">
+       Sesuai dengan namanya yaitu idhar syafawi, maka cara membacanya mempertemukan bibir bawah dan bibir atas ketika membaca mim yang disukun, kemudian dibaca jelas tanpa
+        samar dan tanpa memasukkan.
+    </string>
+    <string name="lfzallah">
+      Ada dua cara untuk membaca lafadz Allah dalam ilmu Tajwid, diantaranya adalah:
+    </string>
+    <string name="lfzallah2">
+     Lafadz Allah dibaca tafkhim / tebal jika Lafadz Allah didahului huruf berharakat Fathah dan Dhummah.
+    </string>
+    <string name="lfzallah3">
+     Lafadz Allah dibaca tarqiq / tipis jika Lafadz Allah didahului huruf berharakat Kasrah.
+    </string>
+    <string name="idgmutam">
+        Idgham Mutamatsilain tersusun dari dua kata yakni idgham dan mutamatsilain. Idgham berarti memasukkan, sedangkan mutamatsilain bermakna dua huruf yang sama. Di beberapa
+        kitab lain, ada yang memberi nama lain, misalnya idgham mutamatsil atau idgham mitslain, yang artinya tak jauh beda. Pengertian idgham mutamatsilain tak jauh dari arti
+        setiap kata nya, yaitu memasukkan dua huruf (huruf pertama dimasukkan ke huruf kedua) yang sama (baik makhraj maupun sifatnya) dengan syarat huruf pertama (berharakat)
+        mati/sukun dan huruf kedua hidup.
+
+    </string>
+    <string name="idgmutaj">
+    Idghom mutajanisain adalah samanya dua huruf dalam makhroj dan berbeda sifatnya. Apabila dua huruf bertemu sama makhrojnya tapi beda sifanya maka dibaca idghom.
+    Tidak semua huruf yang sama makhroj dan berbeda sifat boleh diidghomkan. Menurut riwayat Hafsh huruf yang boleh diidghomkan karena tajanus adalah:
+ </string>
+    <string name="idgmutaq">
+        Idghom mutaqoribain adalah dua huruf yang berdekatan makhroj dan sifatnya. Yang termasuk pada idghom ini hanya dua tempat yaitu qof sukun menghadapi kaf dan lam
+        sukun menghadapi ro’.
+    </string>
+    <string name="madt">
+        Mad Thobi’i yaitu merupakan satu dari bagian [cabang] dari Hukum Mad. Secara bahasa [etimologi] Mad Thobi’i mempunyai arti alami atau biasa, yaitu tidak lebih dan
+        juga tidak kurang. Dibaca dengan panjang 2 harakat atau 1 alif.Di dalam pembahasan ilmu tajwid, Mad Thobi’i ini sering disebut dengan istilah lain sebagai Mad Ashli,
+        ini artinya adalah asal mula [asal-muasal] suatu kejadian, dan ini adalah merupakan kunci utama [dasar] di dalam belajar tentang hukum-hukum dari Mad Far’i.
+        Setiap bacaan yang dibaca panjang dalam Al-Qur’an, ada 3 kreteria mad thobi’i :
+
+    </string>
+</resources>

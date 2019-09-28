@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+            android:background="@drawable/back">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HUKUM IDGHAM"
+            android:fontFamily="monospace"
+            android:textStyle="bold"
+            android:textSize="45dp"
+            android:gravity="center"/>
+    <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Idgham adalah berpadu atau bercampur antara dua huruf atau memasukkan satu huruf ke dalam huruf yang lain. Maka dari itu, bacaan idgham harus dilafazkan dengan cara meleburkan suatu huruf kepada huruf setelahnya. Hukum Idgham terbagi menjadi 3, antara lain:"/>
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="77dp"
+            android:gravity="center">
+
+        <Button
+                android:layout_marginTop="10dp"
+                android:id="@+id/mutam"
+                android:layout_width="394dp"
+                android:layout_height="61dp"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_button_orange"
+                tools:layout_editor_absoluteY="439dp"
+                android:text="idgham mutamasilain"
+                android:layout_marginStart="6dp"/>
+    </LinearLayout>
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="77dp"
+            android:gravity="center">
+
+        <Button
+                android:layout_marginTop="10dp"
+                android:id="@+id/mutaj"
+                android:layout_width="394dp"
+                android:layout_height="61dp"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_button_orange"
+                tools:layout_editor_absoluteY="439dp"
+                android:text="idgham mutajanisain"
+                android:layout_marginStart="6dp"/>
+    </LinearLayout>
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="77dp"
+            android:gravity="center">
+
+        <Button
+                android:layout_marginTop="10dp"
+                android:id="@+id/mutaq"
+                android:layout_width="394dp"
+                android:layout_height="61dp"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_button_orange"
+                tools:layout_editor_absoluteY="439dp"
+                android:text="idgham mutaqaribain"
+                android:layout_marginStart="6dp"/>
+    </LinearLayout>
+    </LinearLayout>
+    </ScrollView>
+

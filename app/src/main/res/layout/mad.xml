@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+            android:background="@drawable/back">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MAD"
+            android:fontFamily="monospace"
+            android:textStyle="bold"
+            android:textSize="45dp"
+            android:gravity="center"/>
+    <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hukum Mad terbagi menjadi 2, yaitu:"/>
+
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="77dp"
+            android:gravity="center">
+
+        <Button
+                android:layout_marginTop="10dp"
+                android:id="@+id/tobii"
+                android:layout_width="394dp"
+                android:layout_height="61dp"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_button_orange"
+                tools:layout_editor_absoluteY="439dp"
+                android:text="MAD THOBI'I"
+                android:layout_marginStart="6dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="85dp"
+            android:gravity="center">
+
+        <Button
+                android:layout_marginTop="10dp"
+                android:id="@+id/fari"
+                android:layout_width="360dp"
+                android:layout_height="61dp"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_button_orange"
+                tools:layout_editor_absoluteY="439dp"
+                android:text="mad far'i"/>
+    </LinearLayout>
+    </LinearLayout>
+</ScrollView>

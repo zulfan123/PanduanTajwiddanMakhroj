@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+        android:background="@drawable/aboutback">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="About"
+            android:fontFamily="monospace"
+            android:textStyle="bold"
+            android:textSize="35dp"
+            android:gravity="center"/>
+    <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="Panduan Tajwid dan Makhraj - Aplikasi Panduan Tajwid dan Makhraj adalah aplikasi yang ditujukan untuk semua orang yang ingin belajar mengaji dan ingin belajar banyak mengenai
+ilmu tajwid dan makhraj. Aplikasi ini sangat cocok untuk pemula / yang ingin belajar mengaji dan memfasihkan bacaan Al-Qur'an."
+            android:textSize="16dp"
+            />
+
+        <ImageView
+                android:layout_marginTop="20dp"
+                android:src="@drawable/myfotoku"
+                android:layout_height="124dp"
+                android:layout_width="wrap_content"
+                android:layout_gravity="center"
+                />
+    <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="Creator : M. Zulfan Firmansyah"
+            android:textSize="20dp"
+            />
+    <TextView
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="TTL : Batu, 6 Juli 2001"
+            android:textSize="20dp"
+            />
+    <TextView
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="Asal Sekolah : SMK Islam Batu"
+            android:textSize="20dp"
+            />
+    <TextView
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="Facebook : Firmansyah Zulfan M"
+            android:textSize="20dp"
+            />
+    <TextView
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="Contact Person : 0857-5546-3119"
+            android:textSize="20dp"
+            />
+    </LinearLayout>
+</ScrollView>

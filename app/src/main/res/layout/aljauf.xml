@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+            android:background="@drawable/back">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="AL-JAUF (Rongga Mulut)"
+            android:fontFamily="monospace"
+            android:textStyle="bold"
+            android:textSize="45dp"
+            android:gravity="center"/>
+    <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dinamakan Al-Jauf karena tempat keluarnya huruf-huruf berasal dari rongga mulut. Adapun huruf-huruf hijaiyyah yang makhrajnya berasal dari al-jaufu atau rongga mulut adalah alif, wawu, dan ya’, sebagaimana berikut ini :"/>
+
+    <ImageView
+            android:src="@drawable/jauf"
+            android:layout_height="201dp"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+</ScrollView>

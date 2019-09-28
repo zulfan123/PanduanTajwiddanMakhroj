@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+            android:background="@drawable/back">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MAD THOBI'I"
+            android:fontFamily="monospace"
+            android:textStyle="bold"
+            android:textSize="45dp"
+            android:gravity="center"/>
+    <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/madt"/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Fathah bertemu huruf Alif"/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CONTOH :"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+    <ImageView
+            android:src="@drawable/fat"
+            android:layout_height="48dp"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. Kasroh bertemu huruf Ya` Sukun"/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CONTOH :"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+    <ImageView
+            android:src="@drawable/kas"
+            android:layout_height="48dp"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. Dhummah bertemu huruf Wawu Sukun"/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CONTOH :"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+    <ImageView
+            android:src="@drawable/dum"
+            android:layout_height="48dp"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"/>
+
+    </LinearLayout>
+</ScrollView>

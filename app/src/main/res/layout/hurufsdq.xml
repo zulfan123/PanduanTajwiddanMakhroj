@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+            android:background="@drawable/back">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HURUF SYAMSIYAH DAN QAMARIYAH"
+            android:fontFamily="monospace"
+            android:textStyle="bold"
+            android:textSize="45dp"
+            android:gravity="center"/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Huruf Syamsiyah"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Huruf Syamsiyah ialah setiap huruf Alif dan Lam bertemu dengan salah satu huruf hijaiyyah yang berjumlah 14, antara lain:"/>
+    <ImageView
+            android:src="@drawable/hsyam"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CONTOH :"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+    <ImageView
+            android:src="@drawable/syam"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. Huruf Qamariyah"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Huruf Qamariyah ialah setiap huruf Alif dan Lam bertemu dengan salah satu huruf hijaiyyah yang berjumlah 14, antara lain:"/>
+
+        <ImageView
+                android:src="@drawable/hqam"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center"/>
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CONTOH :"
+            android:fontFamily="monospace"
+            android:textStyle="bold"/>
+    <ImageView
+            android:src="@drawable/qam"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+</ScrollView>

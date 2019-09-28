@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+            android:background="@drawable/back">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HUKUM NUN SUKUN DAN TANWIN"
+            android:fontFamily="monospace"
+            android:textStyle="bold"
+            android:textSize="45dp"
+            android:gravity="center"/>
+    <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hukum Nun Sukun dan Tanwin terbagi menjadi 5, diantaranya adalah:"/>
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="77dp"
+            android:gravity="center">
+
+        <Button
+                android:layout_marginTop="10dp"
+                android:id="@+id/idgbig"
+                android:layout_width="394dp"
+                android:layout_height="61dp"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_button_orange"
+                tools:layout_editor_absoluteY="439dp"
+                android:text="idgham bighunnah"
+                android:layout_marginStart="6dp"/>
+    </LinearLayout>
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="77dp"
+            android:gravity="center">
+
+        <Button
+                android:layout_marginTop="10dp"
+                android:id="@+id/idgbil"
+                android:layout_width="394dp"
+                android:layout_height="61dp"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_button_orange"
+                tools:layout_editor_absoluteY="439dp"
+                android:text="idgham bilaghunnah"
+                android:layout_marginStart="6dp"/>
+    </LinearLayout>
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="77dp"
+            android:gravity="center">
+
+        <Button
+                android:layout_marginTop="10dp"
+                android:id="@+id/iqlab"
+                android:layout_width="394dp"
+                android:layout_height="61dp"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_button_orange"
+                tools:layout_editor_absoluteY="439dp"
+                android:text="iqlab"
+                android:layout_marginStart="6dp"/>
+    </LinearLayout>
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="77dp"
+            android:gravity="center">
+
+        <Button
+                android:layout_marginTop="10dp"
+                android:id="@+id/idar"
+                android:layout_width="394dp"
+                android:layout_height="61dp"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_button_orange"
+                tools:layout_editor_absoluteY="439dp"
+                android:text="idzhar"
+                android:layout_marginStart="6dp"/>
+    </LinearLayout>
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="77dp"
+            android:gravity="center">
+
+        <Button
+                android:layout_marginTop="10dp"
+                android:id="@+id/ikfa"
+                android:layout_width="394dp"
+                android:layout_height="61dp"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_button_orange"
+                tools:layout_editor_absoluteY="439dp"
+                android:text="ikhfa'"
+                android:layout_marginStart="6dp"/>
+    </LinearLayout>
+    </LinearLayout>
+</ScrollView>

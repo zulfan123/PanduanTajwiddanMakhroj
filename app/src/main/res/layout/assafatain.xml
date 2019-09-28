@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+            android:background="@drawable/back">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="AS-SYAFATAIN (Bibir)"
+            android:fontFamily="monospace"
+            android:textStyle="bold"
+            android:textSize="45dp"
+            android:gravity="center"/>
+    <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dinamakan Al-Syafatain karena tempat keluarnya huruf-huruf berasal dari bibir. Adapun huruf-huruf hijaiyyah yang makhrajnya berasal dari al-syafatain atau dua bibir adalah ba’, mim, fa’, dan wawu, sebagaimana berikut ini :
+"
+            />
+    <ImageView
+            android:src="@drawable/safatain"
+            android:layout_height="201dp"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+</ScrollView>
